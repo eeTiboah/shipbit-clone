@@ -1,0 +1,53 @@
+.project{
+    margin-bottom: 30px;
+}
+
+.project_info{
+    margin: 0 110px;
+    width: 1150px;
+    color: white;
+    display: flex;
+    position: relative;
+}
+
+.project_info__section{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+}
+
+.project_info__text{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 50%;
+}
+
+.project_info__button{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    position: absolute;
+    left: 0;
+}
+
+.project_button{
+    border: 1px solid black;
+    border-radius: 30px;
+    width: 150px;
+    height: 43px;
+    font-weight: bold;
+    font-size: 1rem;
+    color: white;
+    background-color: #E81748;
+    cursor: pointer;
+}
+.project_h2{
+    font-size: 2rem;
+}
+
+.project_p{
+    color: rgba(255, 255, 255, 0.6);
+    margin-top: 20px;
+    line-height: 1.8rem;
+}

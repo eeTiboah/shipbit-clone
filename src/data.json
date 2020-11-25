@@ -1,0 +1,36 @@
+[
+{ 
+    "id": 0,
+    "title":"VR Classroom",
+    "work":"UNITY VR DEVELOPMENT",
+    "image": "images/vr-garage.webp",
+    "explore": "EXPLORE"
+},
+{
+    "id": 1,
+    "title":"Developer Tutorials",
+    "work":"CONSULTING",
+    "image": "images/dev-tut.webp",
+    "explore": "EXPLORE"
+},
+{
+    "id": 2,
+    "title":"Icarus",
+    "work":"UNITY GAME DEVELOPMENT",
+    "image": "images/icarus.webp",
+    "explore": "EXPLORE"
+},
+{
+    "id": 3,
+    "title":"NATTT",
+    "work":"APP DEVELOPMENT",
+    "image": "images/nattt-title.webp",
+    "explore": "EXPLORE"
+},
+{
+    "id": 4,
+    "title":"LCARS-Sonors Player",
+    "work":"FRONTEND DEVELOPMENT",
+    "image": "images/sonos-title.webp",
+    "explore": "EXPLORE"
+}]

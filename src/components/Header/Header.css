@@ -9,10 +9,11 @@ a{
     padding: 10px;
     width: 100%;
     position: fixed;
+    z-index: 100;
 }
 
 .header_width{
-    width: 90%;
+    width: 83.5%;
     display: flex;
     justify-content: space-between;
     margin: 0 20px;
@@ -39,6 +40,10 @@ a{
     font-size: 1.15rem;
     list-style-type: none;
     text-transform: uppercase;
+}
+
+.header_links__li{
+    margin-right: 30px;
 }
 
 
@@ -86,11 +91,9 @@ a.header_links__a:hover:after{
 }
 
 .header_a h3{
-    font-size: 2rem;
+    font-size: 1.875rem;
     font-weight: 900;
-    transform: scaleY(1);
+    /* transform: scaleY(0.96); */
+    line-height: 1.2;
 }
 
-img{
-    vertical-align: middle;
-}
